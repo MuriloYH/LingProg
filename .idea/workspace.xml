@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1473cf8a-1620-40ee-ae90-a0290aa39c33" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1b2MXVFsWarTJunVVV62W1zaf2Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1473cf8a-1620-40ee-ae90-a0290aa39c33" name="Default Changelist" comment="" />
+      <created>1587825774203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587825774203</updated>
+      <workItem from="1587825775420" duration="7202000" />
+      <workItem from="1587858130617" duration="2820000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1066" y="201" key="#Inspections" timestamp="1587828703010">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1066" y="201" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1587828703010" />
+    <state x="1274" y="446" key="NewPhpFileDialog" timestamp="1587859748306">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1274" y="446" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587859748306" />
+  </component>
+</project>
